@@ -1,0 +1,26 @@
+
+<html>
+<body>
+
+<h1>Turing machine</h1>
+
+<h2> Introduction </h2>
+<p>
+A Turing machine is a hypothetical machine created by the mathematician Alan Turing in 1936.
+The machine can simulate ANY computer algorithm, no matter how complicated it is.
+</p>
+
+<h2> Alan Turing </h2>
+<p>
+Alan Turing is the father of computer science.
+<a href = "http://journals1.scholarsportal.info.libproxy.wlu.ca/pdf/15209202/v16i0001/5_at.xml">Alan Turing</a>
+</p>
+
+<h2>A photo of Alan Turing</h2>
+<img src="https://en.wikipedia.org/wiki/Alan_Turing#/media/File:Alan_Turing_Aged_16.jpg" alt ="Alan Turing, wikipedia" title=Turing aged 16
+
+<h2> Video about Turing machine</h2>
+<iframe width="https://www.youtube.com/watch?v=E3keLeMwfHY" frameborder="0" allowfullscreen></iframe>
+
+</body>
+</html>
